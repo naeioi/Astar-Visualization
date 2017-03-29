@@ -7,4 +7,4 @@ A visualization of A* search on [8-puzzle](https://en.wikipedia.org/wiki/15_puzz
 
 By default npm will listen to port 3333 on localhost. You can change the confirguration in `webpack.config.js`.
 
-![Screenshot](/screenshot.git?raw=true)
+![Screenshot](/screenshot.gif?raw=true)
